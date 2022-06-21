@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Danny
+
+  I'm a full stack web developer and looking for opportunities to start my career. I have a great understanding of Html, CSS, JavaScript, SQL, Slack, and Heroku. I have a huge interest in gaming/Esports and have hopes of becoming apart of that industry in the future
 
 <!--
 **DanielKneale/DanielKneale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
