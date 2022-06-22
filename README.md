@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Daniel Kneale</h1>
 <h3 align="center">I'm a Full Stack Web Developer from Nevada</h3>
 
-- 🎮 in my freetime in enjoy gaming and solving difficult 🧩🗝 puzzles including escape rooms
+- 🏫 I attended Bloomtech to dive into the world of coding in 2021 and am exicted for what the future holds with it.
+- 🎮 in my freetime in enjoy gaming and solving difficult 🧩 puzzles including 🗝Escape Rooms.
 
 <h3 align="left">Connect with me:</h3>
 - 📫 How to reach me **dek.kneale@gmail.com**
