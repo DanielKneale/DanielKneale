@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Daniel Kneale</h1>
 <h3 align="center">I'm a Full Stack Web Developer from Nevada</h3>
 
-- 🎮 I enjoy gaming in my free time
-- 🧩 and also solving difficult puzzles
+- 🎮 in my freetime in enjoy gaming and solving difficult 🧩🗝 puzzles including escape rooms
 - 
-- 📫 How to reach me **dek.kneale@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
+- 📫 How to reach me **dek.kneale@gmail.com**
 <p align="left">
 </p>
 
