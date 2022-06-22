@@ -5,7 +5,7 @@
 - 🎮 in my freetime in enjoy gaming and solving difficult 🧩 puzzles including 🗝Escape Rooms.
 
 <h3 align="left">Connect with me:</h3>
-- 📫 How to reach me **dek.kneale@gmail.com**
+📫Email me @ dek.kneale@gmail.com
 <p align="left">
 </p>
 
