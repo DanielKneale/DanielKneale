@@ -2,7 +2,7 @@
 <h3 align="center">I'm a Full Stack Web Developer from Nevada</h3>
 
 - 🏫 I attended Bloomtech to dive into the world of coding in 2021 and am exicted for what the future holds with it.
-- 🎮 in my freetime in enjoy gaming and solving difficult 🧩 puzzles including 🗝Escape Rooms.
+- 🎮 In my freetime in enjoy gaming and solving difficult 🧩 puzzles including 🗝Escape Rooms.
 
 <h3 align="left">Connect with me:</h3>
 📫Email me @ dek.kneale@gmail.com
